@@ -5,7 +5,7 @@ function App() {
     <div className="container">
 
       <div className="header">
-        Header
+        Achilles Isaiah S. Ocampo - WMD3A
       </div>
 
       <div className="content">
